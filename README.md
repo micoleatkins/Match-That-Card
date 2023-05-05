@@ -25,3 +25,5 @@
 ##### A Trello board was used to keep track of development progress and can be viewed here ....
 
 ---
+
+![Smile](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fcelebrity-red-carpet-flat-vector-illustration_82574-7565.jpg%3Fsize%3D626%26ext%3Djpg&f=1&nofb=1&ipt=c6fc63adf35121bb1ea4024dc7c2f920389c07baeb02d525908ac72e1726dbe6&ipo=images)
