@@ -1,0 +1,64 @@
+/*----- constants -----*/
+
+// Define the 6 possible pairing winning combinations
+
+// Define the winner
+
+/*----- state variables -----*/
+
+// Use a variable called 'gameBoard' to represent the placeholder for the squares
+
+// Use a variable named 'winner' to declare a winner
+
+/*----- cached elements  -----*/
+
+// Create a 'Let's Go' button to enter the game and name it 'goBtn'
+
+// Create a reset button to start the game over and name it 'resetBtn'
+
+// Create a timer to countdown on player's time to match squares
+
+// Store the timer element in a constant named 'timer'
+
+//  In a constant called 'blockEls', store the 12 elements representing the squares on the page
+
+/*----- event listeners -----*/
+
+// Attach an event listener to the 'goBtn' 
+
+// Attach an event listener to the game board. On the 'click' event, it should call the 'click' function
+
+// Attach an event listener to the `resetBtn`. On the 'click' event it should call the 'init' function 
+
+
+/*----- functions -----*/
+
+// On the main page should display the rules to the game until you click 'goBtn' to render the official game page
+
+// The game state should be initialized once the page loads
+
+// Let this function be called 'init' to render the game state
+
+// The state of the game should be rendered to the user and be called 'render'
+
+// Set the 'gameBoard' variable to an array containing 12 'nulls' to represent the empty squares until clicked
+
+// Call a function called 'click' to represent the squares revealing the content on them
+
+// The 'click' will have an 'evt' parameter
+
+// In each square will have either a picture, movie title, or song title once clicked
+
+// Set the 'winner' to 'null'
+
+// Set the only player of the game to 'player'
+
+// The player has 20 seconds to match all of the 'blockEls'
+
+// There will be matching pairs of two blockEls to cover the whole gameBoard
+
+// Once 6 pairs of matching blockEls are clicked the game will display winner
+
+// If the player doesn't match all of the blockEls to its right match by 20 seconds the game will display you lose 
+
+
