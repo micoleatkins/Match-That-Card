@@ -6,8 +6,6 @@
 
 /*----- state variables -----*/
 
-// Use a variable called 'gameBoard' to represent the placeholder for the squares
-
 // Use a variable named 'winner' to declare a winner
 
 /*----- cached elements  -----*/
