@@ -9,9 +9,6 @@
 // Use a variable named 'winner' to declare a winner
 
 /*----- cached elements  -----*/
-
-// Create a 'Let's Go' button to enter the game and name it 'goBtn'
-
 // Create a reset button to start the game over and name it 'resetBtn'
 
 // Create a timer to countdown on player's time to match squares
