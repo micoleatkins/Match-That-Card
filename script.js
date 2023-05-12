@@ -35,15 +35,12 @@ const init = () => {
 const boxes = document.querySelectorAll('.front')
 const gameBoard = document.querySelectorAll('.gameBoard')
 let wins = document.querySelector('.wins')
-let restart = document.querySelector('.button')
 
 // render boxes function; to actually get the boxes to actively flip over on the initial click
 
 const renderBoxes = () => {
   boxes.forEach((box) => {
     box.addEventListener('click', (evt) => {
-      console.log(evt)
-      console.log(evt.target.id)
       let image = box.querySelector('.back')
       let front = box.querySelector('.front')
       // front.classList.add('hidden')
@@ -58,7 +55,7 @@ renderBoxes()
 // Match boxes function; possible winning matches, if a total of a set of 6 boxes match out of 12 within the 30 seconds of the game, then you will get an alert that will say YOU WON!PLAY AGAIN! after 5 seconds.
 //Use set timeout function
 const matchingBoxes = (first, second) => {
-  console.log(first)
+  console.log(first, second)
   if (winningCombos[`${first}`] === winningCombos[`${second}`]) {
     firstBox.removeEventListener('click', clickedBox)
     secondBox.removeEventListener('click', clickedBox)
@@ -69,7 +66,6 @@ const matchingBoxes = (first, second) => {
         console.log('You Won')
       })
     }
-    console.log(match)
     click = 1
     return
   } else {
@@ -93,13 +89,12 @@ const clickedBox = (evt) => {
     firstBox.classList.add('visible')
   } else if (click === 2) {
     secondBox = evt.target.querySelector('.back')
-    let src2 = secondBox.src.slice(27, 32)
-    let src1 = firstBox.src.slice(27, 32)
-    if (src1 !== src2) {
-      secondBox.classList.remove('hidden')
-      secondBox.classList.add('visible')
-      matchingBoxes(src1, src2)
-    }
+    let src2 = secondBox.src.slice(43, 48)
+    let src1 = firstBox.src.slice(43, 48)
+    secondBox.classList.remove('hidden')
+    secondBox.classList.add('visible')
+    console.log(src1, src2)
+    matchingBoxes(src1, src2)
   }
 }
 
