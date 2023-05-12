@@ -36,10 +36,7 @@
 
 ### **_Credits_**
 
-##### Celebrity Vectors: [DuckDuckGo Search](http://www.duckduckgo.com)
-
-[DevianArt](http://www.deviantart.com)
-[Tenor](http://www.tenor.com)
+##### Celebrity Vectors: [DuckDuckGo Search](http://www.duckduckgo.com)[DevianArt](http://www.deviantart.com)[Tenor](http://www.tenor.com)
 
 #####
 
