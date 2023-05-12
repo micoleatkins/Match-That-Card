@@ -26,6 +26,12 @@
 
 #### As you enter the website you'll first see that the main page explains the directions to the game. Next you'll click "Let's Go" to actually enter to a set of 12 boxes. The timer will be set to 30sec to match each box with its rightfully pair. Each box will contain either movie quotes, artists, actors, and song quotes.
 
+---
+
+### **_Access The Game_**
+
+#### [surge](https://matchthatbox.surge.sh/)
+
 ##### A Trello board was used to keep track of development progress and can be viewed here [trello](https://trello.com/b/gkcSvMbm/project-1-matching-game)
 
 ---
