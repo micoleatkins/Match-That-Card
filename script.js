@@ -74,7 +74,7 @@ const matchingBoxes = (first, second) => {
       firstBox.classList.add('hidden')
       secondBox.classList.remove('visible')
       secondBox.classList.add('hidden')
-    }, 500)
+    }, 1000)
     click = 1
   }
 }
@@ -91,10 +91,14 @@ const clickedBox = (evt) => {
     secondBox = evt.target.querySelector('.back')
     let src2 = secondBox.src.slice(43, 48)
     let src1 = firstBox.src.slice(43, 48)
+    let src3 = secondBox.src.slice(35, 40)
+    let src4 = firstBox.src.slice(35, 40)
     secondBox.classList.remove('hidden')
     secondBox.classList.add('visible')
-    console.log(src1, src2)
-    matchingBoxes(src1, src2)
+    console.log(src3, src4)
+    // matchingBoxes(src1, src2) local host version
+    // surge version
+    matchingBoxes(src3, src4)
   }
 }
 
