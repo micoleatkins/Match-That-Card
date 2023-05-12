@@ -31,6 +31,8 @@
 ---
 
 ![Smile](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fcelebrity-red-carpet-flat-vector-illustration_82574-7565.jpg%3Fsize%3D626%26ext%3Djpg&f=1&nofb=1&ipt=c6fc63adf35121bb1ea4024dc7c2f920389c07baeb02d525908ac72e1726dbe6&ipo=images)
+![Smile](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.giphy.com%2Fmedia%2F70TE5apiAcLPa%2Fgiphy.gif&f=1&nofb=1&ipt=0cf8c7f55a30cd0d5484b95967fa310dd46cce107b8a3ef1e057f1331e1e1364&ipo=images)
+![Smile](https://media1.tenor.com/images/9f4ff8ab39d5622dfc9505f96828d698/tenor.gif?itemid=16285714)
 
 ---
 
