@@ -1,0 +1,110 @@
+body {
+  height: 100vh;
+  width: 100%;
+  font-family: fantasy; 
+  font-style: italic, bold;
+  font-weight: lighter;
+  color:whitesmoke;
+  text-align: center;
+  justify-content: center;
+  font-size: 40px;
+  background: linear-gradient(250deg, rgb(174, 62, 188)25%,rgb(145, 117, 145) 50%, rgb(93, 4, 88) 25%);
+}
+h1 {
+  font-family: "Impact";
+}
+.gameBoard {
+  width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  gap: 15px;
+  perspective: 1000px;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  position: relative;
+  left: 500px;
+  justify-content: space-evenly;
+  width: 195px;
+  height: 150px;
+  background-color: rgb(202, 48, 216);
+  transform-style: preserve-3d;
+  transition: transform 3s ease-in-out;
+  transform-origin: right center;
+  cursor: grab;
+  user-select: none;
+  box-shadow: 1px 3px 0;
+  align-items: center;
+}
+
+.clickedBox {
+  width: 195px;
+  height: 150px;
+  position: relative;
+  transition: .3s;
+  background-color: pink;
+}
+
+.hidden {
+  display: none;
+}
+.visible {
+display: inline;
+}
+.front{
+  background-color: rgb(166, 58, 169);
+  height: 100%;
+  /* transform: rotateY(180deg); */
+}
+.back {
+  background-color: blueviolet;
+  height: 100%;
+  z-index: 1;
+}
+.time {
+  font-size: 5px;
+}
+.audio {
+  top:0;
+  right: 0;
+  width: 100px;
+  position: fixed
+}
+span {
+  font-style: italic;
+  position: relative;
+  white-space: nowrap;
+  font-family:Arial;
+  margin:0 auto;
+  font-size:60px;
+  display:block;
+}
+p {
+  font-size: 30px;
+  display: block;
+}
+.wrapper {
+  font-size: 35px;
+  box-sizing: border-box;
+  background-image: url('pic.jpg');
+  width: 800px;
+  justify-content: center;
+  display:inline-block;
+  text-align: center;
+  color:black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  box-shadow: 1px 3px 0;
+  opacity: 0.5;
+}
+.p1 {
+  justify-content: center;
+  text-align: center;
+  background-image: url('matchthat.png');
+  display:inline-block;
+  height: 350px;
+  font-size: 25px;
+  box-sizing: border-box;
+}
