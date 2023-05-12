@@ -53,6 +53,8 @@ Acknowledgements
 - Freefrontend
 - My peers
 - Canva
+- Codepen
+- Youtube
 
 ---
 
