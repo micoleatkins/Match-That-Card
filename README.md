@@ -34,6 +34,8 @@
 
 ![Sad](https://media1.tenor.com/images/9f4ff8ab39d5622dfc9505f96828d698/tenor.gif?itemid=16285714)
 
+![Mad](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F38.media.tumblr.com%2Fb6e36ae77a522ceb4b80c2eab5908c27%2Ftumblr_n4tdnqjyO41qikmd9o1_500.gif&f=1&nofb=1&ipt=a4966a6f4e99aae924c871065201e03355d4835c757c6aa0877536217ca553c5&ipo=images)
+
 ---
 
 ### **_Credits_**
