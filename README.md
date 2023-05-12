@@ -10,7 +10,7 @@
 
 ### **_Description_**
 
-#### Match That Card is a fun challenging game that tests out your movie and song titles. This game will show if you're hip to what's cool or if you spent most of your life living under a rock :joy:! We will be highlighting genres such as pop, country, and hip hop artists. As for movies, I hope my audience get a nostalgic feeling while matching quotes with its rightful owner. This game has no age restrictions and can be enjoyed by everyone!
+#### Match That Box is a fun challenging game that tests out your movie and song titles. This game will show if you're hip to what's cool or if you spent most of your life living under a rock :joy:! We will be highlighting genres such as pop, country, and hip hop artists. As for movies, I hope my audience get a nostalgic feeling while matching quotes with its rightful owner. This game has no age restrictions and can be enjoyed by everyone!
 
 ---
 
@@ -48,3 +48,11 @@ Acknowledgements
 - Sweetalert
 - Freefrontend
 - My peers
+- Canva
+
+---
+
+Contact
+
+- Micole Atkins
+  Email: micoleatkins@gmail.com
